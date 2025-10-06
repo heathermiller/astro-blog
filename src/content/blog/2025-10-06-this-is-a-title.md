@@ -7,6 +7,7 @@ ogImage: This is a title2
 slug: my-slug
 featured: true
 draft: false
+description: apparently this is required but the UI doesn't say that it is
 ---
 Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text. Yadda yadda, need some text.
 
